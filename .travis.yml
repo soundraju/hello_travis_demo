@@ -6,7 +6,7 @@ compiler:
 
 clang
 
-gcc 7
+gcc
 
 script:
 
