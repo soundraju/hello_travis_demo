@@ -4,9 +4,9 @@ sudo: false # only for faster builds
 
 compiler:
 
-clang
+-clang
 
-gcc
+-gcc
 
 script:
 
